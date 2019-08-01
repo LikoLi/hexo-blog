@@ -5,7 +5,7 @@ categories:
 tags:
   - HTML
 mp3: 'http://domain.com/awesome.mp3'
-cover: 'https://img.ivsky.com/img/tupian/pre/201811/20/chouxiang_yishu_beijing_sucai-008.jpg'
+cover: 'http://likoli.cn/imgs/Internet Explorer Wallpaper_7d2839df227c6e0f9b52968c5f3f5809.bmp'
 date: 2019-08-01 16:34:00
 ---
 # HTML
