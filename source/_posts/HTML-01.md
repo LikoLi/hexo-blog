@@ -5,10 +5,10 @@ categories:
 tags:
   - HTML
 mp3: 'http://domain.com/awesome.mp3'
-cover: 'https://s2.ax1x.com/2019/08/01/eaJnXT.png'
+cover: 'http://likoli.cn/imgs/eaJnXT_72a6da311f3717945adc8ebeee988824.png'
 date: 2019-08-01 16:34:00
 ---
-# HTML
+# HTML 01
 
 ## 1.认识网页
 
