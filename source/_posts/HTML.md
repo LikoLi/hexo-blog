@@ -5,7 +5,7 @@ categories:
 tags:
   - HTML
 mp3: 'http://domain.com/awesome.mp3'
-cover: 'http://likoli.cn/imgs/Internet Explorer Wallpaper_7d2839df227c6e0f9b52968c5f3f5809.bmp'
+cover: 'https://s2.ax1x.com/2019/08/01/eaJnXT.png'
 date: 2019-08-01 16:34:00
 ---
 # HTML
