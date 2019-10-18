@@ -6,7 +6,7 @@
 title: liko's blog
 subtitle: 学习 分享
 description: liko's blog
-keywords: Java Spring SpringBoot Maven Vue ...
+keywords: Java,Spring,SpringBoot,Maven,Vue,...
 author: liko
 language: zh-cn
 timezone: UTC
@@ -29,13 +29,13 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
